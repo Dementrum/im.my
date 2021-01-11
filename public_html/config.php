@@ -9,4 +9,3 @@ const HOST = 'localhost';
 const USER = 'root'; // пользователь
 const PASS = ''; // пароль
 const DB_NAME = 'im'; //база данных
-
